@@ -55,10 +55,10 @@ This write-up documents the Kenobi TryHackMe room. The goal is to enumerate netw
 2. Scan the machine with `nmap` to discover services (example output preserved below in CLI block).
 
 ```bash
-kali@kali:~/CTFs/tryhackme/Kenobi$ sudo nmap -A -p- 10.10.137.113
+kali@kali:~/CTFs/tryhackme/Kenobi$ sudo nmap -A -p- MACHINE_IP
 [sudo] password for kali:
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-10-03 19:52 CEST
-Nmap scan report for 10.10.137.113
+Nmap scan report for MACHINE_IP
 Host is up (0.030s latency).
 Not shown: 65524 closed ports
 PORT      STATE SERVICE     VERSION
