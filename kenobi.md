@@ -234,3 +234,7 @@ Click to reveal the answers and flags found during the lab.
 ### ⚠️ Disclaimer
 This write-up is for **educational purposes only**. Do not attempt these techniques on systems you do not own or have explicit permission to test.
 
+---
+
+### ⭐ If this helped you, consider leaving a star on the repo!
+
