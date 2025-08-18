@@ -347,3 +347,7 @@ thm{af55ada6c2445446eb0606b5a2d3a4d2}
 - **Room Author:** TryHackMe room `hackerNote` (lab content used for education).  
 - **Exploit sources:** saleemrashid (CVE exploit), NinjaJc01 (timing exploit repo)  
 - This repository is for **learning only**. Do **not** apply techniques against systems without explicit authorization.
+
+  ---
+
+### ⭐ If this helped you, consider leaving a star on the repo!
